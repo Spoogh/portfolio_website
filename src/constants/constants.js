@@ -37,7 +37,7 @@ export const projects = [
   },
   {
     title: 'GPT3 Showcase',
-    description: "This site is a mockup of a GPT3 showcase site. I used React and CSS to create this site. This was a great way to practice React and CSS.",
+    description: "This site is a mockup of a GPT3 showcase site. This was a great way to practice React and CSS.",
     image: './images/5.gif',
     tags: ['React', 'CSS'],
     source: 'https://github.com/Spoogh/GPT3Showcase',

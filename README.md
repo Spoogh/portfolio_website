@@ -1,4 +1,4 @@
 ## Personal Portfolio
-https://spoogh.github.io/portfolio_website/
+https://spoogh.github.io/Joshua-Flores-Portfolio/
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+

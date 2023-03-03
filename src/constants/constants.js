@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Gericht Dining',
     description: "Using React and CSS, I created a fine dining restaurant mockup website. This project was a great way to practice my CSS and React skills.",
-      image: '/images/1.gif',
+      image: './images/1.gif',
       tags: ['React', 'CSS'],
     source: 'https://github.com/Spoogh/finediningpage',
     visit: 'https://spoogh.github.io/finediningpage/',
@@ -11,7 +11,7 @@ export const projects = [
   {
     title: 'Modern Bank Page',
     description:"Mockup Bank Website using React, Tailwind, and Vite. My first introduction to Tailwind and Vite, great practice for React.",
-    image: '/images/2.gif',
+    image: './images/2.gif',
     tags: ['React', 'Vite', 'Tailwind'],
     source: 'https://github.com/Spoogh/modern_bank_page',
     visit: 'https://spoogh.github.io/modern_bank_page/',
@@ -20,7 +20,7 @@ export const projects = [
   {
     title: 'Red Wood',
     description: "Red Wood is an e-commerce project that I created with a group from my bootcamp.",
-      image: '/images/3.gif',
+      image: './images/3.gif',
       tags: ['React', 'MongoDB', 'Express', 'Stripe'],
     source: 'https://github.com/osheathe1/red-wood',
     visit: 'https://red-wood.herokuapp.com/',
@@ -29,7 +29,7 @@ export const projects = [
   {
     title: 'Garden2',
     description: "Garden Squared is a website where users can create and share their own gardens. ",
-    image: '/images/4.gif',
+    image: './images/4.gif',
     tags: ['Handlebars', 'Express', 'MySQL2'],
     source: 'https://github.com/MarkGATX/Garden2',
     visit: 'https://garden2ed.herokuapp.com/',
@@ -38,7 +38,7 @@ export const projects = [
   {
     title: 'GPT3 Showcase',
     description: "This site is a mockup of a GPT3 showcase site. I used React and CSS to create this site. This was a great way to practice React and CSS.",
-    image: '/images/5.gif',
+    image: './images/5.gif',
     tags: ['React', 'CSS'],
     source: 'https://github.com/Spoogh/GPT3Showcase',
     visit: 'https://spoogh.github.io/GPT3Showcase/',
@@ -47,7 +47,7 @@ export const projects = [
   {
     title: 'E-commerce Backend',
     description: "This is a code repository for the back-end of an E-commerce site.",
-    image: '/images/6.gif',
+    image: './images/6.gif',
     tags: ['Express', 'MongoDB', 'Moment'],
     source: 'https://github.com/Spoogh/Social-Network-API',
     visit: 'https://github.com/Spoogh/Social-Network-API',

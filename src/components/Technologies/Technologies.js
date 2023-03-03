@@ -9,7 +9,7 @@ const Technologies = () =>  (
     <br />
     <SectionTitle> Technologies</SectionTitle>
     <SectionText>
-      I've worked with a range of technologies in the web development world. From Back-end To Design
+      I've worked with both front-end and back-end technologies in the web development world.
     </SectionText>
     <List>
       <ListItem>
@@ -19,6 +19,11 @@ const Technologies = () =>  (
           <ListParagraph>
             Experience with <br />
             React.js
+            TailwindCSS
+            Next.js
+            Bootstrap
+            MaterialiseCSS
+            HTML5
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -28,7 +33,14 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Rbackend tings
+            API's
+            Node.js
+            Express.js
+            MongoDB
+            MySQL
+            MySQL2
+            Jest
+           
           </ListParagraph>
         </ListContainer>
       </ListItem>

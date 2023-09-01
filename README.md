@@ -4,7 +4,7 @@
 My updated portfolio containing links to my socials, my projects, my stack, and an about me.
 
 ## Live site
-https://spoogh.github.io/Joshua-Flores-Portfolio/
+https://joshuafloresjjf.github.io/Joshua-Flores-Portfolio/
 
 <img src="gif\portfolio.gif">
 

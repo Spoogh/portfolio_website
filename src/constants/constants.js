@@ -5,7 +5,7 @@ export const projects = [
       image: './images/1.gif',
       tags: ['React', 'CSS'],
     source: 'https://github.com/Spoogh/finediningpage',
-    visit: 'https://spoogh.github.io/finediningpage/',
+    visit: 'https://joshuafloresjjf.github.io/finediningpage/',
     id: 0,
   },
   {
@@ -14,7 +14,7 @@ export const projects = [
     image: './images/2.gif',
     tags: ['React', 'Vite', 'Tailwind'],
     source: 'https://github.com/Spoogh/modern_bank_page',
-    visit: 'https://spoogh.github.io/modern_bank_page/',
+    visit: 'https://joshuafloresjjf.github.io/modern_bank_page/',
     id: 1,
   },
   {
@@ -41,7 +41,7 @@ export const projects = [
     image: './images/5.gif',
     tags: ['React', 'CSS'],
     source: 'https://github.com/Spoogh/GPT3Showcase',
-    visit: 'https://spoogh.github.io/GPT3Showcase/',
+    visit: 'https://joshuafloresjjf.github.io/GPT3Showcase/',
     id: 4,
   },
   {
